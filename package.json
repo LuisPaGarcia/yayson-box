@@ -7,7 +7,7 @@
 	"main": "dist/index.js",
 	"license": "MIT",
 	"scripts": {
-		"build": "tsc"
+		"build": "tsc -d"
 	},
 	"devDependencies": {
 		"typescript": "^3.6.3"
@@ -16,11 +16,7 @@
 		"fastify": "^2.10.0",
 		"node-fetch": "^2.6.0"
 	},
-	"keywords": [
-		"yayson",
-		"json",
-		"box"
-	],
+	"keywords": ["yayson", "json", "box"],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/LuisPaGarcia/yayson-box.git"

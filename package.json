@@ -13,7 +13,7 @@
 		"typescript": "^3.6.3"
 	},
 	"dependencies": {
-		"fastify": "^2.10.0",
+		"fastify": "^2.15.1",
 		"node-fetch": "^2.6.0"
 	},
 	"keywords": ["yayson", "json", "box"],
